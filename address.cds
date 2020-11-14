@@ -1,0 +1,1 @@
+type PostalCode: String(10);
